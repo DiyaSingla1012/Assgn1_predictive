@@ -1,7 +1,6 @@
 Assignment-1: Probability Density Function (PDF) Learning
 
 Roll Number: 102303694
-Course: Probability and Statistics
 
 ------------------------------------------------------------
 
